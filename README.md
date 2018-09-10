@@ -1,3 +1,3 @@
 # RucompArchLab-F18
 
-*Welcome to my Repo*
+**Welcome to my Repo**
